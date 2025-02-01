@@ -1,7 +1,7 @@
 Undocumented, permissed release of the source code for https://paragonaio.com.
 
 Social Media:
-https://x.com/ParagonAIO
+https://x.com/ParagonAIO .
 https://www.instagram.com/paragonaio/
 
 Video of Customer Purchasing a Limited Edition Sneaker with Voyager (ParagonAIO's Automation Software) :
